@@ -7,3 +7,5 @@
 ## Descripción del Proyecto
 
 Estructura básica en HTML5 y estilos CSS personalizados para la Práctica 01.
+
+### Proyecto completado y subido a GitHub
