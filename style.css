@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700;800&display=swap');
+
+body {
+    background-color: #faf0e6;
+    font-family: 'Montserrat', sans-serif;
+    color: #3e2723;
+    margin: 40px;
+    line-height: 1.6;
+}
+
+h1 {
+    color: #4a0404;
+    font-size: 65px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: -2px;
+    text-shadow: 0 0 10px rgba(255, 215, 0, 0.7);
+    margin-bottom: 20px;
+}
+
+.noticias {
+    color: #5d4037;
+    font-size: 45px;
+    font-weight: 700;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+#titulo1 {
+    color: #800000;
+    font-size: 32px;
+    font-weight: 600;
+}
+
+p {
+    color: #6d4c41;
+    font-weight: 400;
+}
+
+a {
+    color: #a52a2a;
+    text-decoration: none;
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+
+a:hover {
+    color: #4a0404;
+    text-decoration: underline;
+    text-shadow: 0 0 5px rgba(255, 215, 0, 0.5);
+}
+
+footer {
+    margin-top: 60px;
+    border-top: 2px solid #5d4037;
+    padding-top: 20px;
+}
+
+.box {
+    width: 300px;
+    padding: 20px;
+    border: 3px solid #800000;
+    margin: 25px;
+    background-color: #f5e6d3;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(74, 4, 4, 0.15);
+}
